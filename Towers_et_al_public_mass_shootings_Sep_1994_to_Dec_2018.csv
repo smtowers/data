@@ -1,3 +1,21 @@
+#################################################################################
+#################################################################################
+#################################################################################
+# List of public mass shootings from the beginning of the federal assault weapons ban
+# Sept 13, 1994 to the end of December, 2018
+# Inclusion in the data set requires that at least four people be killed in public
+# places, and the incident was not associated with criminal activity or self-defense
+# For transparency, we include some events that do not meet this criteria that have 
+# been included in other past compilations of public mass shootings.  However, we
+# flag such events in the meet_inclusion_criteria field.
+#
+# Copyright 2018, 2019 Sherry Towers
+# author: Sherry Towers (smtowers@asu.edu)
+# created: Mar 20, 2018
+#
+# This dataset can be freely used and shared, as long as the header information
+# remains intact and the source and author are properly cited.
+#################################################################################
 "Date","meet_inclusion_criteria","month","day","year","town","state","perpetrator_name","venue","num_shot_public","num_gun_fatalities_public","num_gun_injuries_public","num_shot_private","num_gun_fatalities_private","num_gun_injuries_private","public_victims_knew_perp","julian_day","during_ban","known_if_high_capacity_involved_or_not","involved_FAWB_banned_firearm","summary","reason_excluded","note1","note2","note3","note4","note5","note6","note7","note8","note9","note10","note11","note12","note13"
 2018.85,"Yes",11,7,2018,"Thousand Oaks","CA","Ian David Long","Public Place",13,12,1,0,0,0,"No",17842,0,1,TRUE,"Killed 12 and wounded 1 in a nightclub","","<a href='https://bbc.in/2T0SYeq' target='_blank'>A</a>","<a href='https://n.pr/2R2Dp8H' target='_blank'>B</a>","<a href='https://nbcnews.to/2yVz8cQ' target='_blank'>C</a>","<a href='https://abc7.ws/2RODXf7' target='_blank'>D</a>","","","","","","","","",""
 2018.82,"Yes",10,27,2018,"Pittsburgh","PA","Robert Bowers","Public Place",17,11,6,0,0,0,"No",17831,0,1,TRUE,"Killed 11 and wounded 6 in a synagogue","","<a href='https://bit.ly/2O8zuBL' target='_blank'>A</a>","<a href='https://bit.ly/2SWVUbV' target='_blank'>B</a>","<a href='https://bit.ly/2Lq7dqw' target='_blank'>C</a>","<a href='https://yhoo.it/2SbRgGQ' target='_blank'>D</a>","<a href='https://cnn.it/2RePVOO' target='_blank'>E</a>","<a href='https://bit.ly/2SWVZfJ' target='_blank'>F</a>","<a href='https://bbc.in/2Ex3S7A' target='_blank'>G</a>","","","","","",""
